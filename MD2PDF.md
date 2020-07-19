@@ -5,4 +5,5 @@
   $ pandoc -o tmp.html README.md
   $ pandoc -o pdf.pdf tmp.html
   ```
+- [markdown PDF Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf)
 - markdown-pdf
