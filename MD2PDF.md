@@ -6,4 +6,8 @@
   $ pandoc -o pdf.pdf tmp.html
   ```
 - [markdown PDF Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf)
+  1. Install
+  2. Open a md file
+  3. Right click
+  4. Export PDF (Good quality)
 - markdown-pdf
