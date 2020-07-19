@@ -1,0 +1,3 @@
+
+- pandoc
+- markdown-pdf
