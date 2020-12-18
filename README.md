@@ -5,3 +5,6 @@
 - [gitignore-is-ignored-by-git](https://stackoverflow.com/questions/11451535/gitignore-is-ignored-by-git)
 - [Github API](https://api.github.com/)
 
+## Mini Tutorial
+- [How to create a PDF out of an MD file](From%20MD%20to%20PDF.md)
+- [Change user with Git](Change%20User.md)
